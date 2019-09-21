@@ -1,4 +1,4 @@
-#CodeBook for Getting and Cleaning Data Course Project
+# CodeBook for Getting and Cleaning Data Course Project
 
 This code book summarizes the data for the "FinalData.txt" file that you can find in this repository. 
 
@@ -6,7 +6,7 @@ This code book summarizes the data for the "FinalData.txt" file that you can fin
 
 You can read the README.MD file for a better understanding of the instructions followed.
 
-##Identifiers
+## Identifiers
 
 * Subject - The ID of the test subject
 * Activity - The type of activity performed when the corresponding measurements were taken.Activity identifier, string with 6 possible values:
@@ -18,7 +18,7 @@ You can read the README.MD file for a better understanding of the instructions f
     * STANDING: subject was standing
     * LAYING: subject was laying
 
-##Measurements
+## Measurements
 
 All measurements are floating-point values, normalised and bounded within [-1,1]. They represent the mean and standard deviation for the following characteristics:
                                          
